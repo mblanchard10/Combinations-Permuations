@@ -1,11 +1,11 @@
-# CSC2342-01 F20 Lab Five
+# CSC2342-01 F20 Lab Six
 ## Dr. Jason M. Pittman
 
 ## Purpose
 The purpose of this work is to implement a program to test whether a given positive integer is prime or composite.
 
 ## Requirements
-Your program, at a minimum, must include the following features. Be certain to submit your assignment in Blackboard$^1$ after you are finished programming *and* testing.
+Your program, at a minimum, must include the following features. Be certain to submit your assignment after you are finished programming *and* testing.
 
 ## Features
    The minimum features are as follows. I recommend programming to each successive feature and testing it before moving on.
