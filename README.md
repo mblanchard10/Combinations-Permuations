@@ -2,7 +2,7 @@
 ## Dr. Jason M. Pittman
 
 ## Purpose
-The purpose of this work is to implement a program to test whether a given positive integer is prime or composite.
+The purpose of this work is to implement a program to compute cominbations or permutations.
 
 ## Requirements
 Your program, at a minimum, must include the following features. Be certain to submit your assignment after you are finished programming *and* testing.
