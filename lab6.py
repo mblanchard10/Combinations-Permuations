@@ -19,12 +19,12 @@ def main():
     if o == 'n' or o == 'N':
         n = int(input("How many sets are you going to input?: "))
         for i in range(0,n):
-            set = input("Enter set: ") 
+            set = input("Enter set (seperate elements by commas): ") 
             element = set.split(",")
             sum += len(element)
             product *= len(element)
     elif o == 'y' or o == 'Y':
-        set1 = input("Enter all elements of the set (n): ") 
+        set1 = input("Enter all elements of the set (n) seperated by commas: ") 
         element1 = set1.split(",")
         sub = int(input("Enter the size of the subset(r): "))
 
