@@ -7,7 +7,7 @@ __license__ = "GPLv3"
 __version__ = "0.0.0"
 __maintainer__ = ""
 __email__ = "mblancha@highpoint.edu"
-__status__ = "Lab 5 Complete"
+__status__ = "Lab 6 Complete"
 import math
 
 def main():
@@ -33,7 +33,7 @@ def main():
             product = math.factorial(len(element1))
         elif sub != 0:
             product = (math.factorial(len(element1))) / (math.factorial(len(element1) - sub))
-
+    
     print("Using Sum Rule: ", sum)
     print("Using Product Rule: ", product)
 
